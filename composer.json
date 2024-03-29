@@ -1,5 +1,5 @@
 {
-  "name": "jekk0/laravel-iso3166-validation-rules",
+  "name": "docmok/laravel11-iso3166-validation-rules",
   "description": "Laravel/Lumen validation rules for validate country codes (ISO3166-1)",
   "keywords": [
     "php",
@@ -10,18 +10,18 @@
     "ISO3166",
     "ISO3166-1"
   ],
-  "homepage": "https://github.com/jekk0/laravel-iso3166-validation-rules",
+  "homepage": "https://github.com/docmok/laravel-iso3166-validation-rules",
   "license": "MIT",
   "authors": [
     {
-      "name": "jekk0",
-      "homepage": "https://github.com/jekk0",
+      "name": "DocMok",
+      "homepage": "https://github.com/docmok",
       "role": "Developer"
     }
   ],
   "require": {
     "php": ">=8.0",
-    "illuminate/contracts": "^7.0|^8.0|^9.0|^10.0"
+    "illuminate/contracts": "^7.0|^8.0|^9.0|^10.0|^11.0"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.0|^9.0"
